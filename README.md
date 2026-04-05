@@ -53,3 +53,4 @@ For the translations of this documentation, see:
 
 For more information on the various repositories that make up PHP's documentation pipeline,
 see this [overview](https://github.com/php/doc-base/blob/master/docs/overview.md).
+Created by Jason Scott Heise
